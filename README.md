@@ -15,8 +15,8 @@ This configs files can also be used to pre-prompt other agents like [Firebase](h
 
 The `mcpServers` section of the configuration file specifies the MCP servers that are available to this agent. In this example, the `anthropic/memory-mcp` server is configured for use by the agent.
 
-This README provides a brief overview of the `new-agent.yaml` file and its components."
+This README provides a brief overview of the `Local-host-agent.yaml` file and its components."
 
 ## Rules
-The rules written in the rules folder are prompts that can be aplied to agents to behave in differents and more precise ways. They are used to make them do things in certain ways like naming_convention, or OS specific command suggestions. 
+The rules written in the rules folder are prompts that can be aplied to agents to behave in different and more precise ways. They are used to make them do things in certain ways like naming_convention, or OS specific command suggestions. 
 These rules are in contant development, refactoring and updating with the more usage is given, and the more requirements or difficulties are faced.
